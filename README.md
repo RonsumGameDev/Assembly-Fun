@@ -40,6 +40,7 @@ Just the machine.
 - Registers
 - Program entry points
 - Exiting programs
+- Calculator
 
 ## Memory
 - `.text`
@@ -54,6 +55,7 @@ Just the machine.
 - Conditional jumps
 - Labels
 - Control flow
+- itoa and atoi
 
 ## Input / Output
 - `read`
