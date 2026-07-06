@@ -72,3 +72,9 @@ Using GNU assembler (`as`) and linker (`ld`):
 as program.s -o program.o
 ld program.o -o program
 ./program
+```
+
+```bash
+gcc -nostdlib -no-pie program.s -o program
+./program
+```
