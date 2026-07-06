@@ -74,6 +74,8 @@ ld program.o -o program
 ./program
 ```
 
+Using GCC instead GNU assember
+
 ```bash
 gcc -nostdlib -no-pie program.s -o program
 ./program
